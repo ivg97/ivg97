@@ -1,5 +1,5 @@
 ### Hi there 👋 My name is [Вашурин Александр]([https://github.com/ivg97])
-## I am Python Backend Developer
+## Software Engineer / Backend Developer
 Born on June 15, 1997. Nizhny Novgorod
 ### My contacts
 [![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/ivg97) 
@@ -33,3 +33,11 @@ Born on June 15, 1997. Nizhny Novgorod
 
 [![Git info](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ivg97&theme=github_dark)](https://github.com/denvercoder1/github-readme-streak-stats)
 
+## Software Engineer / Backend Developer
+<section>
+        <a href="https://www.codewars.com/users/ivg97">
+            <img title="CodeWars Profile"
+                 src="https://www.codewars.com/users/ivg97/badges/small"/>
+        </a>
+
+  </section>
