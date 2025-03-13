@@ -7,6 +7,9 @@
 
 ## Technology stack
 
+<img align="right" alt="GIF" src="https://github.com/ivg97/ivg97/blob/main/for_gh.jpg?raw=true" width="500" height="360" />
+
+
 **Back-end**
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
