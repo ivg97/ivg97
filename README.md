@@ -2,8 +2,8 @@
 
 ### Contacts Me:
 
-[![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/ivg97) 
-[![Email](https://img.shields.io/badge/Yandex-blue?logo=Yandex&logoColor=white)](mailto:gavr97.97@yandex.ru)
+- Telegram: [@ivg97](https://t.me/ivg97) 
+- Email: [gavr97.97@yandex.ru](mailto:gavr97.97@yandex.ru)
 
 ## Technology stack
 
@@ -40,6 +40,10 @@
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Learning**
+
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 **Software Engineer / Backend Developer**
 
